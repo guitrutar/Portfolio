@@ -1,0 +1,83 @@
+@media screen and (max-width: 460px) {
+  .quadro {
+    height: 50px;
+    width: 350px;
+  }
+
+  .quadro2 {
+    height: 250px;
+    width: 300px;
+
+    position: absolute;
+    left: 50%;
+    top: 140px;
+  }
+
+  header .logo {
+    position: relative;
+    left: -2px;
+  }
+
+  header nav a {
+    font-size: 1em;
+    position: relative;
+    left: 10px;
+  }
+
+  header .fc {
+    position: relative;
+    left: 1px;
+  }
+
+  .main1 .sm {
+    position: relative;
+    left: 85px;
+  }
+
+  .main1 .vp {
+    position: relative;
+    left: -55px;
+    top: 380px;
+  }
+
+  .main2 .foto {
+    position: relative;
+    top: 120px;
+    width: 120%;
+    left: -20px;
+  }
+
+  .main3 .quadro3 {
+    height: 100px;
+    width: 370px;
+  }
+
+  .main3 .html, .css, .js {
+    width: 15%;
+  }
+
+  .main3 .css {
+    position: relative;
+    top: 15px;
+  }
+
+  .main3 .js {
+    position: relative;
+    top: 7px;
+  }
+
+  .main3 .html {
+    position: relative;
+    top: 6px;
+  }
+
+  .main3 .vp5 {
+    position: relative;
+    left: -69px;
+    top: 70px;
+    font-size: 0.9em;
+    padding: 2px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
